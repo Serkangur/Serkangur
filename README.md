@@ -25,4 +25,4 @@
 
 
 
-![snake gif](https://github.com/Serkangur/Serkangur/blob/output/github-contribution-grid-snake.gif)
+
