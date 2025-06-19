@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serkan Gür</h1>
 <h3 align="center">A passionate QA Tester from Turkey</h3>
 
-- 🌱 I’m currently learning **Selenuim,TestNG,JUnit,Cucumber,Postman,Karate**
+- 🌱 I’m currently learning **Selenuim,TestNG,JUnit,Cucumber,Postman,Karate,Rest Assured**
 
 - 📝 I regularly write articles on [https://medium.com/@serkangur](https://medium.com/@serkangur)
 
